@@ -1,18 +1,16 @@
-# ml-regression-house-prices
+# ml-regression-airbnb-prices
 
-This is is a machine learning-based regression model project that can predict housing prices using various property features. It uses the Random Forest Regressor algorithm and visualizes feature importance to achieve better interpretability.
+This is is a machine learning-based regression model project that can predict Airbnb housing prices using various property features. It uses the Random Forest Regressor algorithm and visualizes feature importance to achieve better interpretability.
 
 ## Dataset
 
-The dataset includes real estate listings with several features, such as:
-- Area (in square meters)
-- Number of rooms
+The dataset includes listings with several features, such as:
+- Room type
+- Longtitude
 - Age of the building
-- Floor level
-- Neighborhood
-- Heating type
-- Building type
-- Furnishing status
+- Number of Reviews
+- Latitude
+- Minimum nights
 - And more...
 
 ## Workflow
